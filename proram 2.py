@@ -1,5 +1,4 @@
 
-# Function to find both maximum and minimum
 def find_max_min(arr, low, high):
     if low == high:
         return arr[low], arr[low]
